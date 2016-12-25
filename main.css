@@ -1,0 +1,35 @@
+.makeMeDraggable
+{
+    background-color: blue; 
+    padding: 30px; position: relative; 
+    left: 0px; 
+    top: 0px;
+}
+
+.makeMeDropable
+{
+    background-color: red; 
+    padding: 100px; position: relative; 
+    left: 0px; 
+    top: 0px;
+}
+
+.dragStart
+{
+    background-color: #cccccc;
+}
+
+.dragStop
+{
+    background-color: blue;
+}
+
+.dragOver
+{
+    background-color: green;
+}
+
+table
+{
+	border: 20px solid transparent;
+}
